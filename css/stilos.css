@@ -1,0 +1,47 @@
+body{
+  /* background: url(../portafolio/img/fondo2.jpg); */
+  background-size: cover;
+  margin: 40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: xx-small;
+  text-align: right;
+}
+header{
+  color: rgb(24, 24, 26);
+  text-align: center;
+  display: inline-block;
+}
+.menu1{
+    list-style: none;
+    padding:0;
+    background:transparent;
+    width: 80%;
+    max-width: 1000px;
+    margin: auto;
+    font-size: x-large;
+    position: static;
+    
+}
+.menu1 li a{
+    text-decoration: none;
+    color:#000000;
+    padding: 10px;
+    display: block;
+}
+.menu1 li {
+    display: inline-block;
+    text-align: center;
+}
+.menu1 li a :hover{
+    background:rgb(22, 5, 248);
+    padding: 8px;
+}
+b{
+  font-size: x-large;
+}
+div{
+  width:600px;
+  height:400px ;
+  padding:50px;
+  text-align: left;
+}
