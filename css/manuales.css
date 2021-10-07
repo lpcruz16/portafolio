@@ -1,0 +1,23 @@
+body{
+  background: url(../img/creative-725811_1920.jpg);
+  background-size: cover;
+  margin: 50px;
+  font-family: cursive;
+  color: black;
+  text-align: center;
+}
+h1{
+  display:block;
+}
+div.caja1{
+  background: wheat;
+  width:500px ;
+  height:700px;
+  display:inline-block;
+}
+div.caja2{
+  background: yellowgreen;
+  width: 500px;
+  height: 700px;
+  display: inline-block;
+}
