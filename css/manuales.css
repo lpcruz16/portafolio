@@ -10,11 +10,12 @@ h1{
   display:block;
 }
 div.caja1{
-  background: seashell;
+ 
   width:600px ;
   height:700px;
   display:inline-block;
   text-align:justify;
+  padding:10px ;
 }
 div.caja2{
   background: silver;

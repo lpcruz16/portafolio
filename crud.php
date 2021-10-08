@@ -7,6 +7,9 @@
   <title>C.R.U.D</title>
 </head>
 <body>
+
+<img src="../portafolio/img/error.jpg" alt="" width="100%" height="100%"><br>
+DISCULPE ESTAMOS TRABAJANDO....
   <a href="index.php">Pagina Principal</a>
 </body>
 </html>
