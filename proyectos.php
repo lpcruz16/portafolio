@@ -22,10 +22,5 @@ adelante con proyectos familiares como por ejemplo:
 
 <img src="../portafolio/img/CARO2.jpg" alt="">
 <br>
-<h2>heladeria tropicoco</h2>
-<br>
-<h2>maderas valentina </h2>
-
-<a href="index.html">Pagina anterior</a>
 </body>
 </html>

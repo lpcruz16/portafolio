@@ -10,14 +10,16 @@ h1{
   display:block;
 }
 div.caja1{
-  background: wheat;
-  width:500px ;
+  background: seashell;
+  width:600px ;
   height:700px;
   display:inline-block;
+  text-align:justify;
 }
 div.caja2{
-  background: yellowgreen;
-  width: 500px;
+  background: silver;
+  width: 600px;
   height: 700px;
   display: inline-block;
+  text-align: right;
 }

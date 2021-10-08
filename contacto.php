@@ -4,25 +4,24 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="../css/contacto.css">
+  <link rel="stylesheet" href="../portafolio/css/contacto.css">
   <title>Contacto</title>
 </head>
 <body>
  <header>
-
+<H1> 💡 Portafolio Leidy Cruz 💡</H1>
  </header>
- <nav>
-
- </nav>
- <form  class="formulario" action="post">
+ <hr>
+ <form  class="formulario" action="#" method="GET">
 	<h2>Formulario de Contacto</h2>
 	<input type="text" value="Nombre" id="nombre" placeholder="Nombre" required > <br>
 	<input type="email" value="Correo" id="correo"  placeholder="Correo" required > <br>
-	<input type="text" value="Asunto"  id="asunto" placeholder="Asunto" required ><br>
-	<input type="text" value="Mensaje" id="Mensaje" placeholder="Mensaje" required><br>
+	<textarea name="mensaje" placeholder="Mensaje"></textarea><br>
 	<input type="button" value="Enviar">
+	<input type="reset" value="Comenzar de nuevo">
 </form>
- <h1>bienvenido a la pagina contacto</h1>
- <a href="index.html">pagina anterior</a>
+<br>
+<hr>
+ <a href="index.php">Pagina Inicio</a>
 </body>
 </html>
