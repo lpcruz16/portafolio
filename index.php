@@ -13,9 +13,9 @@
 <H1> 💡 Portafolio Leidy Cruz 💡</H1>
  <nav>
 <ul class="menu1">
-<li ><a href="index.php"><b>INICIO | </b></I></a> </li>
-<li ><a href="proyectos.php"><b>PROYECTOS |</b> </a> </li>
-<li ><a href="contacto.php"><b>CONTACTO</b> </a> </li>
+<li ><a href="../portafolio/index.php"><b>INICIO | </b></I></a> </li>
+<li ><a href="../portafolio/proyectos.php"><b>PROYECTOS |</b> </a> </li>
+<li ><a href="../portafolio/contacto.php"><b>CONTACTO</b> </a> </li>
 </nav> 
 <br>
  <div class="text1">
