@@ -21,6 +21,9 @@ adelante con proyectos familiares como por ejemplo:
 </p>
 
 <img src="../portafolio/img/CARO2.jpg" alt="">
+<b>PROYECTO FORMATIVO</b>
+<a href="https://localhost/proyectow/index.html">click aqui para visualizar</a>
+<img src="../portafolio/img/womenstore.jpg" alt="" width="300px"  height="200px">
 <br>
 <a href="index.php">Pagina Inicio</a>
 </body>

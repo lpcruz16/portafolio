@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="../portafolio/css/contacto.css">
-  <title>Contacto</title>
+  <title>Contacto💡</title>
 </head>
 <body>
  <header>
@@ -22,6 +22,6 @@
 </form>
 <br>
 <hr>
- <a href="index.php">Pagina Inicio</a> <a href="../proyecto2v/registro.php">Registro</a>
+ <a href="index.php">Pagina Inicio</a> <a href="../proyecto2v/registro.html">Registro</a>
 </body>
 </html>

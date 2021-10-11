@@ -11,12 +11,8 @@
   <div class="parrafo">
   <h1>JAVA 💡</h1>
   <p>Java es un lenguaje sencillo y orientado a objetos, que permite el desarrollo de aplicaciones en diversas áreas, como seguridad, animación, acceso a bases de datos, aplicaciones cliente-servidor, interfaces gráficas, páginas Web interactivas y desarrollo de aplicaciones móviles, entre otras.</p>
-  <h2>FUNCIONES DE JAVA</h2>
-  <img src="../portafolio/img/suma.jpg" alt="" height="250px" width="400px">
-  <img src="../portafolio/img/suma1.jpg" alt="" height="250px" width="400px">
-  <img src="../portafolio/img/suma2.jpg" alt="" height="250px" width="400px">
-  <img src="../portafolio/img/suma3.jpg" alt="" height="250px" width="400px">
-  <img src="../portafolio/img/suma4.jpg" alt="" height="250px" width="400px">
+  <h2>EJERCICIOS DE JAVA</h2>
+ 
 <a href="index.php">PAGINA INICIO</a>
 </body>
 </html>
