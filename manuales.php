@@ -5,10 +5,10 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="../portafolio/css/manuales.css ">
-  <title>Document</title>
+  <title>Manuales Aplicacion 💡</title>
 </head>
 <body>
-  <h1>MANUALES DE APLICACION</h1>
+  <h1>MANUALES DE APLICACION 💡</h1>
   <div class="caja1">
   <h2>MANUAL DE USUARIO</h2>
   <p>En este espacio  dare una breve explicacion de lo que trata el manual de usuario y su objetivo</p>
