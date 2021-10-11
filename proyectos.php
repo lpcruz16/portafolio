@@ -20,9 +20,9 @@ Con un poco mas de conocimiento y experiencia podre salir
 adelante con proyectos familiares como por ejemplo:
 </p>
 
-<img src="../portafolio/img/CARO2.jpg" alt="">
+<img src="../portafolio/img/CARO2.jpg" alt=""><br>
 <b>PROYECTO FORMATIVO</b>
-<a href="https://localhost/proyectow/index.html">click aqui para visualizar</a>
+<a href="https://localhost/proyectow/index.html">click aqui para visualizar</a> <br>
 <img src="../portafolio/img/womenstore.jpg" alt="" width="300px"  height="200px">
 <br>
 <a href="index.php">Pagina Inicio</a>
