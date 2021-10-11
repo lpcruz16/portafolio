@@ -12,25 +12,40 @@
   <div class="caja1">
   <h2>MANUAL DE USUARIO</h2>
   <p>En este espacio  dare una breve explicacion de lo que trata el manual de usuario y su objetivo</p>
-  <p>este manual busca explicar paso a paso el manejo de la aplicacion o pagina web, esu un manual muy grafico y de facil interpretacion para los "Usuarios Finales"</p>
+  <p>Este manual busca explicar paso a paso el manejo de la aplicacion o pagina web, esu un manual muy grafico y de facil interpretacion para los "Usuarios Finales".</p>
   <p>
     <h3>REQUISITOS DE CONOCIMIENTO PARA <br> MANEJAR EL SISTEMA</h3>
-    Aqui se deben indicar si los usuarios que van a manejar el sistema <br> <b>requieren conocimientos tecnicos pasrticulares</b>
+    Aqui se deben indicar si los usuarios que van a manejar el sistema <br> <b>requieren conocimientos tecnicos pasrticulares como:</b>
   </p>
   <ul>
     <li>Informacion basica</li>
     <li>sistemas operativos</li>
-    <li> conocer las politicas de seguridad de las isntitucion como: <br>
+    <li>Conocer las politicas de seguridad de las isntitucion como: <br>
         Politicas de ingreso  <br>
-        validacion  de usuarios <br>
-        manejo de contraseñas</li>
+        Validacion  de usuarios <br>
+        Manejo de contraseñas</li>
+    
   </ul>
+  <p>Es necesario indicar las especificaciones técnicas del hardware y software
+que se deben utilizar para que el sistema funcione adecuadamente,
+estas especificaciones ya fueron definidas en los documentos de diseño
+y validadas posteriormente durante el proceso de construcción de la
+aplicación.</p>
+<h3>Estructura del software y reglas básicas para moverse
+en la aplicación</h3>
+<p>Ingreso al sistema</p>
+<p>Interfaz gráfica</p>
+<p>Mapa de navegación</p>
+<p>Descripción</p>
+
   <img src="../portafolio/img/manualusuario.jpg" height="200px" width="200px">
   </div>
   <div class="caja2"> 
 <h2>MANUAL TECNICO</h2>
-<p>en este espacio se dara soporte tecnico de la organizacion o a quien haga sus veces, ya que el se detallan aspectos sobre la estructura del sistema  con este se podra entender su funcionamiento  global y asi posibilitar su mantenimiento</p>
-<p>en este documento se debe presentar una  descripcion del sistema, que contemple el contexto de la aplicacion , subsistemas o modulos  que lo componen, muchos de los items de este documento se  encuentran en los diferentes informes que se han ido construyendo en la medida del avance del proyecto como son el informe de requerimiento, el informe de analisis, el de diseño, entre otros.</p>
+<p>En este espacio se dara soporte tecnico de la organizacion o a quien haga sus veces, ya que el se detallan aspectos sobre la estructura del sistema  con este se podra entender su funcionamiento  global y asi posibilitar su mantenimiento</p>
+<p>En este documento se debe presentar una  descripcion del sistema, que contemple el contexto de la aplicacion , subsistemas o modulos  que lo componen, muchos de los items de este documento se  encuentran en los diferentes informes que se han ido construyendo en la medida del avance del proyecto como son el informe de requerimiento, el informe de analisis, el de diseño, entre otros.</p>
+
+
   <img src="../portafolio/img/manualtecnico.jpg" height="200px" width="200px">
   
   </div>

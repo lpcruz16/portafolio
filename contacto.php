@@ -22,6 +22,6 @@
 </form>
 <br>
 <hr>
- <a href="index.php">Pagina Inicio</a>
+ <a href="index.php">Pagina Inicio</a> <a href="../proyecto2v/registro.php">Registro</a>
 </body>
 </html>

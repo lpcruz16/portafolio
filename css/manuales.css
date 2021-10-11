@@ -18,9 +18,9 @@ div.caja1{
   padding:10px ;
 }
 div.caja2{
-  background: silver;
+  background: rgba(192, 192, 192, 0.589);
   width: 600px;
   height: 700px;
   display: inline-block;
-  text-align: right;
+  text-align: center;
 }
