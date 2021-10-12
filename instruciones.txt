@@ -1,1 +1,8 @@
-descargar o clonar este  repositorio https://github.com/lpcruz16/portafolio/
+Descargar o clonar este  repositorio https://github.com/lpcruz16/portafolio/
+ este documento debe ir en el dico local c / carpeta xampp/ carpeta htdocs 
+ al tener esto archivado y ubicado en la carpeta de xampp procedemos a abrir el navegador de preferencia o recomendable microsoft edge
+ nos ubicamos en la barra url y buscamos o agregamos la siguiente url http://localhost/portafolio/index.php
+en esta primera interfaz grafica esta el menu de navegacion con inicio , proyectos, contacto
+en la siguiente parte encontramos una breve descripcion de mi y si el usuario quiere ver o obtener mas conociemiento ahi un enlace que los lleva a un tipo hoja de vida.
+seguido encontramos unos imagenes con enlaces a manuales donde encontramos el manual tecnico y el manual de usuario una breve descripcion  , java una pequeña explicacion y unos ejercicios , crud donde encontramos una definicion de cada uno y como se realiza. 
+y para finalizar un boton donde un cliente o usuario solicita un producto "pagina web".
