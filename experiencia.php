@@ -11,7 +11,7 @@
   <div class="titulo1">
         MI EXPERIENCIA ..... <br>
         Hola mi nombre es Leidy Paola Cruz Pinto tengo 25 años nacida y radicada en bogota,  soy bachiller tecnico  en sistemas y tecnologo en analisis y desarrollo de sistemas de informacion en proceso <br>
-        <H2>EXPERIENCIA LABORAL.. </H2> <br> <br>
+       
         <br>
         <a href="index.php">Pagina Inicio</a>
   </div>

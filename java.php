@@ -11,7 +11,7 @@
   <div class="parrafo">
   <h1>JAVA 💡</h1>
   <p>Java es un lenguaje sencillo y orientado a objetos, que permite el desarrollo de aplicaciones en diversas áreas, como seguridad, animación, acceso a bases de datos, aplicaciones cliente-servidor, interfaces gráficas, páginas Web interactivas y desarrollo de aplicaciones móviles, entre otras.</p>
-  <h2>EJERCICIOS DE JAVA</h2>
+  <h2>EJERCICIOS DE JAVA</h2><br>
  var sumar=()=>{
                 var n1 = document.getElementById('txtN1').value;
                 var n2 = document.getElementById('txtN2').value;
